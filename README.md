@@ -7,4 +7,4 @@ Only the first level is developed so far, where the player would have to find ne
 
 Improvements in the future may include animation to the enemies and more levels.
 
-<strong>Click this link to view the video gameplay</strong>
+<b>Click this link to view the video gameplay</b>
