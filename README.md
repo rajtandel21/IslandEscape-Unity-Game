@@ -9,6 +9,6 @@ Improvements in the future may include animation to the enemies and more levels.
 
 <b>Click the links below to view the video gameplay</b>
 
-<a href="https://www.youtube.com/watch?v=Cw0RgSajy8E" target="_blank">Game Win Scene</a>
+<a href="https://www.youtube.com/watch?v=Cw0RgSajy8E" target="_blank">Game-Win-Scene</a>
 
-<a href="https://www.youtube.com/watch?v=Vf6bmte6eus" target="_blank">Game Over Scene</a>
+<a href="https://www.youtube.com/watch?v=Vf6bmte6eus" target="_blank">Game-Over-Scene</a>
